@@ -1,0 +1,6 @@
+Department,Total_Employees,Attrition_Count,Attrition_Rate,Avg_Age,Avg_Income,Avg_Tenure
+Finance,318,60,0.19,40.87,10708.38,19.47
+HR,264,41,0.16,41.31,11137.88,18.76
+IT,303,46,0.15,42.12,10940.71,20.02
+Operations,303,43,0.14,41.93,11058.88,18.31
+Sales,282,45,0.16,39.75,10344.38,19.68

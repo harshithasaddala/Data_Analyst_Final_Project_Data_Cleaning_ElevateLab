@@ -1,0 +1,5 @@
+SalaryBand,Total_Employees,Attrition_Count,Attrition_Rate,Avg_Income
+Low (0-5K),275,40,0.15,3231.89
+Medium (5-10K),394,71,0.18,7456.16
+High (10-15K),386,60,0.16,12597.21
+Premium (15-20K),415,64,0.15,17444.92
